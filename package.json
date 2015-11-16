@@ -1,7 +1,7 @@
 {
   "name": "existy",
   "description": "Check if something exists (e.g. not null || undefined)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Bret Comnes <bcomnes@gmail.com>",
   "bugs": {
     "url": "https://github.com/bcomnes/existy/issues"
