@@ -36,6 +36,10 @@ existy(false) // true
 
 Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
 
+# Related
+
+- [`truthy`](https://www.npmjs.com/package/@bret/truthy)
+
 ## References
 
 - [*Functional Javascript*](http://shop.oreilly.com/product/0636920028857.do) by [Michael Fogus](http://blog.fogus.me/)
