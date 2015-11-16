@@ -2,11 +2,14 @@
 
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]
+[![coverage][coverage-image]][coverage-url]
 
 [npm-image]: https://img.shields.io/npm/v/existy.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/existy
 [travis-image]: https://img.shields.io/travis/bcomnes/existy.svg?style=flat-square
 [travis-url]: https://travis-ci.org/bcomnes/existy
+[coverage-image]: https://img.shields.io/codeclimate/coverage/github/bcomnes/existy.svg?style=flat-square
+[coverage-url]: https://codeclimate.com/github/bcomnes/existy
 
 
 Check if something exists (e.g. not `null` || `undefined`)
