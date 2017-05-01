@@ -1,7 +1,5 @@
 # existy
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/bcomnes/existy.svg)](https://greenkeeper.io/)
-
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]
 [![coverage][coverage-image]][coverage-url]
