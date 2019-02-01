@@ -13,7 +13,7 @@ test('standard js type are existy', function (t) {
     [],
     ['beep'],
     {},
-    {beep: 'boop'},
+    { beep: 'boop' },
     true,
     false,
     10,
